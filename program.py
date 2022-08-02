@@ -1,1 +1,1 @@
-print('Я домашка')
+print('proverka 1')
