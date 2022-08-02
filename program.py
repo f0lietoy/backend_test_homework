@@ -4,4 +4,5 @@ def get_mean(values):
 # Список значений для теста
 num_lst = [3, 6, 5, 7, 9, 1]
 # Тут вызов функции.
-print(get_mean(num_lst))  # Напечатайте результат вызова функции.
+print(get_mean(num_lst))
+print('dobavka')
